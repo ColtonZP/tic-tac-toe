@@ -50,6 +50,11 @@ button {
     display: block;
 }
 
+a {
+    display: block;
+    text-align: center;
+}
+
 p{
     text-align: center;
     margin-top: 50%;
