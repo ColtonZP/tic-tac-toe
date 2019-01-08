@@ -6,7 +6,7 @@
   position: relative;
   width: 80%;
   margin: auto;
-  margin-top: 5%;
+  margin-top: 2%;
 }
 
 .box:before {
@@ -35,7 +35,7 @@ button {
     height: 33.3%;
     border-color: black;
     background-color: #FFF;
-    font-size: 4vh;
+    font-size: 4em;
 }
 
 .message {
@@ -58,7 +58,7 @@ a {
 p{
     text-align: center;
     margin-top: 50%;
-    font-size: 2vh;
+    font-size: 2em;
     text-shadow:
     -1px -1px 0 #FFF,
     1px -1px 0 #FFF,
@@ -76,6 +76,6 @@ p{
 
 @media screen and (min-width: 768px){
     .box {
-        width: 50%;
+        width: 40%;
     }
 }
